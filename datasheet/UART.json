@@ -1,0 +1,14 @@
+{
+  "CON2-P1": {
+    "Default Function": "GND",
+    "Function2": "GPIO"
+  },
+  "CON2-P2": {
+    "Default Function": "UARTO-RX",
+    "Function2": "GPIO"
+  },
+  "CON2-P3": {
+    "Default Function": "UARTO-RX",
+    "Function2": "GPO"
+  }
+}
